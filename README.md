@@ -99,11 +99,12 @@ Returns:
 ---
 
 ## 📄 Citation
+DOI: https://doi.org/10.1109/EAIC66483.2025.11101311
 
 If you use this work, please cite:
 
-> Phung Thao Vi, Satyam Mishra, Vishwanath Bijalwan, Duc Tan Tran.  
-> *C3QG: Context-Controlled, Explainable, and Efficient Question Generation with Transformers*. (2025)
+T. V. Phung, S. Mishra, V. Bijalwan, T. Duc-Tan and S. Mishra, "Context-Controlled Question Generation for Adaptive Learning," 2025 International Conference on Electronics, AI and Computing (EAIC), Jalandhar, India, 2025, pp. 1-6, doi: 10.1109/EAIC66483.2025.11101311. keywords: {Adaptation models;Adaptive learning;Education;Educational technology;Coherence;Question generation;Real-time systems;Encoding;Prompt engineering;Context modeling;Context-Controlled Question Generation;FLAN-T5;Instruction Tuning;Multi-Paragraph Context;Strategic Prompt Engineering;Educational NLP},
+
 
 ---
 
